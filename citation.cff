@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Faria
+    given-names: Victor Castro Nacif de
+    orcid: https://orcid.org/0000-0001-8303-2267
+title: "My Research Software"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 
+date-released: 2025-04-28
