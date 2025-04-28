@@ -225,7 +225,7 @@ def trainingFolds(filename, fold, fold_iteration, train_index_original, test_ind
         file.close()    
 
 # Folder(s) where the datasets are stored:
-folders = ['clean2']
+folders = ['datasets']
 
 # Mutation and Crossover Rates:
 prob_mutation = 0.05
